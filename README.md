@@ -240,38 +240,8 @@ React Native • Laravel • Magento
 - ☁ Cloud Deployment
 - 📦 Play Store & App Store Releases
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=abdul-haseeb-dev-creator&show_icons=true&theme=radical"/>
-
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdul-haseeb-dev-creator&layout=compact&theme=radical"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
 
 
-<img src="https://streak-stats.demolab.com/?user=abdul-haseeb-dev-creator" alt="GitHub Streak" />
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-haseeb-dev-creator&theme=tokyo-night"/>
-
-</p>
 
 ---
 
