@@ -70,11 +70,11 @@ Hi 👋, I'm Abdul Haseeb
 
 - Food delivery, grocery delivery, ride booking and logistics apps (customer, driver and merchant apps)
 - Multi-vendor marketplaces and e-commerce websites & apps
-- Real estate CRM, property management and property listing websites
+- Real estate CRM, property & rental management (landlord / tenant apps) and property listing websites
 - ERP, HRM, inventory, POS and business automation software
 - School management and education software
 - SaaS applications and admin dashboards
-- Service booking apps (home cleaning services) and fitness apps
+- Service booking apps (home cleaning services), fitness apps and cinema / entertainment apps
 
 🌱 Currently learning
 
@@ -136,6 +136,22 @@ Hi 👋, I'm Abdul Haseeb
 ---
 
 # 💼 Featured Projects
+
+## 🎬 CinemaContinent: Mobile App & Laravel CMS
+
+Cinema / movie app for Android & iOS with a Laravel CMS for movies, media and users.
+
+**Tech Stack:** React Native • Laravel • PHP • MySQL • REST APIs
+
+---
+
+## 🏘 Renter Credit: Landlord & Tenant Apps + Laravel CMS
+
+Rental and property management platform: a Landlord app, a Tenant app and a Laravel CMS / admin panel.
+
+**Tech Stack:** React Native • Laravel • PHP • MySQL • REST APIs
+
+---
 
 ## 🚚 Grubsy: Food Delivery Platform
 
