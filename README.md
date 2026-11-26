@@ -11,17 +11,17 @@ Hi 👋, I'm Abdul Haseeb
 </h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | React Native Developer
+🚀 Senior Full Stack Developer | React Native Developer | React.js · Next.js · Node.js · Laravel
 </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+Native+Developer;Next.js+Developer;Node.js+Developer;Laravel+Developer;Building+Scalable+Applications" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+Native+Developer;Next.js+%26+React.js+Developer;Node.js+%26+Laravel+Developer;Android+%26+iOS+App+Developer;SaaS%2C+ERP+%26+CRM+Developer" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-Building scalable Web & Mobile Applications with modern technologies.
+<b>Abdul Haseeb</b> is a Full Stack Developer and React Native Developer from Karachi, Pakistan with <b>5+ years</b> of experience building custom web applications, cross-platform <b>Android & iOS apps</b>, <b>SaaS</b>, <b>ERP / HRM / CRM</b> software, <b>school management systems</b> and <b>e-commerce</b> platforms with React.js, Next.js, Node.js, Laravel and PHP. Open to remote full-time and freelance roles.
 </p>
 
 <p align="center">
@@ -54,31 +54,29 @@ Building scalable Web & Mobile Applications with modern technologies.
 
 # 👨‍💻 About Me
 
-💻 Passionate **Full Stack Developer** specializing in building scalable web and mobile applications.
+💻 **Full Stack Developer** and **React Native Developer** building scalable web apps, mobile apps and custom business software for startups and companies in Pakistan, the UAE, Europe and the US.
 
-📱 Experienced in developing **15+ production applications** from design to deployment.
+📱 Shipped **15+ production applications** from UI design to deployment on the App Store and Google Play.
 
-🚀 Specialized in:
+🚀 Core stack:
 
-- React Native
-- Expo
-- Next.js
-- Node.js
-- Laravel
-- TypeScript
+- **Mobile:** React Native (CLI & Expo), TypeScript, Firebase, push notifications
+- **Web:** React.js, Next.js, JavaScript (ES6+), Tailwind CSS
+- **Backend:** Node.js, Express, Laravel, PHP, CodeIgniter, Prisma
+- **APIs:** REST API development, GraphQL, API integration, payment gateway integration
+- **E-commerce:** Laravel e-commerce, Magento, PrestaShop, multi-vendor marketplaces
 
-🔥 Experienced in:
+🔥 What I've built:
 
-- Mobile App Development
-- Full Stack Development
-- REST APIs
-- CRM Systems
-- E-commerce Platforms
-- Delivery Platforms
-- Real Estate Platforms
-- Admin Dashboards
+- Food delivery, grocery delivery, ride booking and logistics apps (customer, driver and merchant apps)
+- Multi-vendor marketplaces and e-commerce websites & apps
+- Real estate CRM, property management and property listing websites
+- ERP, HRM, inventory, POS and business automation software
+- School management and education software
+- SaaS applications and admin dashboards
+- Service booking apps (home cleaning services) and fitness apps
 
-🌱 Currently Learning
+🌱 Currently learning
 
 - System Design
 - Microservices
@@ -139,95 +137,61 @@ Building scalable Web & Mobile Applications with modern technologies.
 
 # 💼 Featured Projects
 
-## 🚚 Delivery Platform
+## 🚚 Grubsy: Food Delivery Platform
 
-✔ Customer App
+Customer, driver and merchant apps with a React admin panel and a Node.js API.
 
-✔ Driver App
+✔ Customer App · ✔ Driver App · ✔ Merchant App · ✔ Admin Dashboard · ✔ Live Tracking · ✔ Push Notifications · ✔ Payment Integration
 
-✔ Merchant App
-
-✔ Admin Dashboard
-
-✔ Live Tracking
-
-✔ Push Notifications
-
-**Tech Stack**
-
-React Native • Expo • Node.js • Prisma
+**Tech Stack:** React Native • Expo • React.js • Node.js • Prisma
 
 ---
 
-## 🛒 Multi Vendor Marketplace
+## 🛒 Azaro: Multi Vendor Marketplace
 
-✔ Vendor Dashboard
+✔ Vendor Onboarding & Dashboards · ✔ Customer App · ✔ Admin Panel · ✔ Commission & Payouts · ✔ Order Tracking
 
-✔ Customer App
-
-✔ Admin Panel
-
-✔ Payment Integration
-
-✔ Order Tracking
-
-**Tech Stack**
-
-React Native • Laravel
+**Tech Stack:** React Native • Laravel
 
 ---
 
-## 🏠 Real Estate CRM
+## 🥦 Rizq Mart: Grocery Delivery App
 
-✔ Lead Management
+Android & iOS grocery shopping app with a Laravel REST API, payments and real-time order tracking.
 
-✔ Property Management
+[Website](https://rizq-mart.com/) · [App Store](https://apps.apple.com/us/app/rizq-mart/id6753622737) · [Google Play](https://play.google.com/store/apps/details?id=com.rizq.mart)
 
-✔ Reports
-
-✔ Appointment Scheduling
-
-✔ CRM Dashboard
-
-**Tech Stack**
-
-React Native • Laravel
+**Tech Stack:** Flutter • Laravel • PHP • MySQL
 
 ---
 
-## 🍳 Recipe Platform
+## 🏠 Four Apple & Jamoka: Real Estate CRM
 
-✔ Recipe Management
+✔ Lead Management · ✔ Property Management · ✔ Agent Mobile App · ✔ Appointment Scheduling · ✔ Reports & Analytics
 
-✔ Categories
-
-✔ Search
-
-✔ Favorites
-
-✔ Authentication
-
-**Tech Stack**
-
-React Native • Laravel
+**Tech Stack:** React Native • Laravel
 
 ---
 
-## 🛍 E-commerce Platform
+## 🍳 DishDish: Recipe Platform
 
-✔ Product Listing
+[Website](https://dishdish.us/) · [App Store](https://apps.apple.com/us/app/dish-dish-online-cookbook/id649276240) · [Google Play](https://play.google.com/store/apps/details?id=com.dishdish.cookbook)
 
-✔ Cart
+**Tech Stack:** React Native • Laravel • MySQL
 
-✔ Checkout
+---
 
-✔ Payments
+## 🛍 Adil Store & SuperGallery: E-commerce
 
-✔ Order Tracking
+Supermarket e-commerce app for the Gulf region, and a PrestaShop + React.js store for the Netherlands.
 
-**Tech Stack**
+[Adil Store](https://adilstore.com/) · [SuperGallery.nl](https://www.supergallery.nl/)
 
-React Native • Laravel • Magento
+**Tech Stack:** React Native • Magento API • PrestaShop • React.js • PHP • Docker
+
+---
+
+👉 Full list with case studies: **[abdul-haseeb-portfolio-eta.vercel.app](https://abdul-haseeb-portfolio-eta.vercel.app/#projects)**
 
 ---
 
@@ -247,23 +211,25 @@ React Native • Laravel • Magento
 
 # 💡 What I Build
 
-✅ Mobile Applications
+✅ Custom Web Application Development (React.js, Next.js, Laravel, Node.js)
 
-✅ Full Stack Applications
+✅ Cross-Platform Mobile Apps for Android & iOS (React Native)
 
-✅ Admin Dashboards
+✅ SaaS Applications & Admin Dashboards
 
-✅ CRM Systems
+✅ ERP, HRM, Payroll, Inventory & POS Software
 
-✅ REST APIs
+✅ CRM Software (Sales & Real Estate)
 
-✅ Node.js Backends
+✅ School Management Systems & LMS
 
-✅ E-commerce Platforms
+✅ E-commerce Websites, Apps & Multi Vendor Marketplaces
 
-✅ Delivery Platforms
+✅ Food Delivery, Grocery, Ride Booking & Logistics Apps
 
-✅ Real-Time Applications
+✅ REST & GraphQL APIs, Payment Gateway Integration
+
+✅ Website Performance Optimization, Maintenance & Migration
 
 ---
 
